@@ -1,4 +1,5 @@
 # school-react-app
+This is a sample react redux application built with material UI to get all the universities and show them in multiple pages and also perform search of univerties by name.
 
 # frontend
 
